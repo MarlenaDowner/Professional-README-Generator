@@ -35,7 +35,8 @@
    ## Video
 
    This video demonstrates the useage using node command line.
-   
+   [video submission.webm](https://user-images.githubusercontent.com/119687938/221320581-57906c08-3846-4b3a-bb65-06ba103a6b44.webm)
+
    ## License 
 
    This project is licensed under the MIT license.
