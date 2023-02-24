@@ -31,6 +31,10 @@
    ## Usage
 
    Install node 16 or above
+
+   ## Video
+
+   This video demonstrates the useage using node command line.
    
    ## License 
 
