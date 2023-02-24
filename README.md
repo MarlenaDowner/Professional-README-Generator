@@ -1,9 +1,9 @@
-# test
+# README Generator
   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
    ### Description
 
-   test
+   A dynamic professional README Generator
 
    ### Table of Contents
 
@@ -22,7 +22,7 @@
 
    ## Installation 
 
-   To install depensencies run the following command:
+   To install dependencies run the following command:
 
    ```
    npm i
@@ -30,7 +30,31 @@
 
    ## Usage
 
-   test
+   Install node 16 or above
+   
+   ## License 
+
+   This project is licensed under the MIT license.
+
+   ## Contributing
+
+   Create a pull request from repo
+
+   ## Tests
+
+   To run tests, run the folling command:
+
+   ```
+   npm test
+   ```
+
+   ### Questions 
+
+   If you have any question about the repo, open and issue or feel free to contact me at marlenadowner@hotmail.co.uk.
+
+   Find more of my work at [MarlenaDowner](https://github.com/MarlenaDowner).
+
+
 
 
 
