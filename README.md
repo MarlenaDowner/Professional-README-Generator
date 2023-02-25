@@ -32,10 +32,12 @@
 
    Install node 16 or above
 
-   ## Video
-
+   ## Video 
+   
    This video demonstrates the useage using node command line.
 
+   [Professional README Generator.webm](https://user-images.githubusercontent.com/119687938/221323325-b312c276-d0b5-42c8-b55e-23f9e738ca7f.webm)
+   
    ## License 
 
    This project is licensed under the MIT license.
